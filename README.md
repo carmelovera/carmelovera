@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Carmelo 👋
 
-<!--
-**carmelovera/carmelovera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Seattle, originally from Argentina, with a Bachelor of Applied Science in Software Development.
 
-Here are some ideas to get you started:
+For nearly four years I worked on websites in higher education, including two years leading a web team that managed WordPress sites for multiple departments: planning, navigation, accessibility and SEO, from first request to launch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently building a Time Tracker app to track the time you put into the things that help you grow
+🌐 Check out my website: carmelovera.com
+📫 Reach me at hi@carmelovera.com
+Technologies
+
+Technologies
+
+Links
+
+Website LinkedIn Email
